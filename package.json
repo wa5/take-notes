@@ -1,0 +1,21 @@
+{
+  "name": "take-notes",
+  "version": "0.0.1",
+  "description": "Its a small package which will give you lotes of notes of diffrent teachers of all languages and u can keep your notes also.!",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url":"https://github.com/wa5/take-notes"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": ["notes","tech notes","all notes"],
+  "author": "Waseem Ahmed",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
