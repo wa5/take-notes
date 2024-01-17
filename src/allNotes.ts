@@ -6,3 +6,4 @@ export const allNotes={
 
 
 }
+console.log(allNotes.all())
