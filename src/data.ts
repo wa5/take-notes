@@ -9,7 +9,15 @@ export const data=[{
             topic:'for loop'
     
   
-}]
+},{
+    studentName:"Safrin Sara",
+            gitHub:"codehero11",
+            repo:"new-project",
+            fileName:'JAVA.pdf',
+            language:'java',
+            topic:'int'
+}
+]
 }
   
 ]
