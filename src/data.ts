@@ -14,6 +14,13 @@ export const data=[{
             fileName:'JAVA.pdf',
             language:'java',
             topic:'int'
+},{
+    studentName:"Safrin Sara",
+            gitHub:"codehero11",
+            repo:"new-project",
+            fileName:'JAVA.pdf',
+            language:'java',
+            topic:'int'
 },
 {
     studentName:'Manoj M',
