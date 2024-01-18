@@ -1,5 +1,5 @@
 let url='https://cdn.jsdelivr.net/gh/wa5/practise-delete/abc-test.pdf'
-let base=`https://cdn.jsdelivr.net/gh/`
+let base=`https://cdn.jsdelivr.net/gh`
 let urlBulder=`${base}`
 import {data} from './data'
 
