@@ -26,4 +26,3 @@ export const students = {
         return added
     },
 }
-console.log(students.allNotes('Safrin Sara'))
