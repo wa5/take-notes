@@ -1,6 +1,6 @@
 {
   "name": "take-notes",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Its a small package which will give you lotes of notes of diffrent teachers of all languages and u can keep your notes also.!",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
