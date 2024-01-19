@@ -46,23 +46,23 @@ export const data = [{
             topic: 'Datatypes in javascript'
         },
         {
-            Student_Name: 'Sudeep Raj',
+            studentName: 'Sudeep Raj',
             gitHub: "sudeeprajbs",
             repo: "take-notes-lib",
-            FileName: 'hoisting_by_sudeep.pdf',
+            fileName: 'hoisting_by_sudeep.pdf',
             language: 'js',
             topic: 'Hoisting'
         },
         {
-            Student_Name: 'Rakesh D K',
+            studentName: 'Rakesh D K',
             gitHub: "Rocky-1999",
             repo: "take-notes-lib",
-            FileName: 'hosting.pdf',
+            fileName: 'hosting.pdf',
             language: 'js',
             topic: 'Hoisting'
         },
         {
-            StudentName: 'pujitha',
+            studentName: 'pujitha',
             gitHub: '1pujitha',
             repo: 'take-notes-lib',
             fileName: 'pujitha-pdf.pdf',
