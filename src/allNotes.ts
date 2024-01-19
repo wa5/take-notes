@@ -32,4 +32,3 @@ export const students = {
         return added
     },
 }
-console.log(allNotes.all())
