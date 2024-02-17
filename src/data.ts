@@ -15,58 +15,60 @@ export const data = [{
             language: 'java',
             topic: 'int'
         }, {
-            studentName:'Safrin Sara',
-            gitHub:"codehero11",
-            repo:"new-project",
-            fileName:' hashmap and hashset.pdf',
-            language:'java',
-            topic:'hashmap and hashset'
+            studentName: 'Safrin Sara',
+            gitHub: "codehero11",
+            repo: "new-project",
+            fileName: ' hashmap and hashset.pdf',
+            language: 'java',
+            topic: 'hashmap and hashset'
         },
         {
-            studentName:'Prajwal Raj N',
-            gitHub:'prajwalrajn',
-            repo:"My-notes",
-            fileName:'Integerjava.pdf',
-            language:'java',
-            topic:'Integer'
+            studentName: 'Prajwal Raj N',
+            gitHub: 'prajwalrajn',
+            repo: "My-notes",
+            fileName: 'Integerjava.pdf',
+            language: 'java',
+            topic: 'Integer'
         },
         {
-            studentName:'Prajwal Raj N',
-            gitHub:'prajwalrajn',
-            repo:"My-notes",
-            fileName:'arraylist and linkedlist.pdf',
-            language:'java',
-            topic:'ArraylList and LinkedList'
-        },{
-            studentName:'Safrin Sara',
-            gitHub:"codehero11",
-            repo:"new-project",
-            fileName:' array and linked list.pdf',
-            language:'java',
-            topic:' array and linked list'
+            studentName: 'Prajwal Raj N',
+            gitHub: 'prajwalrajn',
+            repo: "My-notes",
+            fileName: 'arraylist and linkedlist.pdf',
+            language: 'java',
+            topic: 'ArraylList and LinkedList'
+        }, {
+            studentName: 'Safrin Sara',
+            gitHub: "codehero11",
+            repo: "new-project",
+            fileName: ' array and linked list.pdf',
+            language: 'java',
+            topic: ' array and linked list'
         },
         {
-            studentName:'Safrin Sara',
-            gitHub:"codehero11",
-            repo:"new-project",
-            fileName:' java char.pdf',
-            language:'java',
-            topic:'char'
+            studentName: 'Safrin Sara',
+            gitHub: "codehero11",
+            repo: "new-project",
+            fileName: ' java char.pdf',
+            language: 'java',
+            topic: 'char'
         },
-        {studentName:'Manoj M',
-        gitHub:"skylinedude",
-        repo:"My-notes",
-        fileName:'Hashmap.pdf',
-        language:'java',
-        topic:'Diffrence between HashMap and Hashset'},
-{
-    studentName:'Manoj M',
-            gitHub:"skylinedude",
-            repo:"My-notes",
-            fileName:'arraylist.pdf',
-            language:'java',
-            topic:'Diffrence between ArrayList and LinkedList'
-},
+        {
+            studentName: 'Manoj M',
+            gitHub: "skylinedude",
+            repo: "My-notes",
+            fileName: 'Hashmap.pdf',
+            language: 'java',
+            topic: 'Diffrence between HashMap and Hashset'
+        },
+        {
+            studentName: 'Manoj M',
+            gitHub: "skylinedude",
+            repo: "My-notes",
+            fileName: 'arraylist.pdf',
+            language: 'java',
+            topic: 'Diffrence between ArrayList and LinkedList'
+        },
         {
             studentName: 'Manoj M',
             gitHub: "skylinedude",
@@ -115,20 +117,20 @@ export const data = [{
             topic: 'const'
         },
         {
-            studentName:'Prathap.K',
-            gitHub:"Iam-Prathap",
-            repo:"take-notes-lib",
-            fileName:'JAVASCRIPT-STRINGS.pdf',
-            language:'js',
-            topic:'Strings'
+            studentName: 'Prathap.K',
+            gitHub: "Iam-Prathap",
+            repo: "take-notes-lib",
+            fileName: 'JAVASCRIPT-STRINGS.pdf',
+            language: 'js',
+            topic: 'Strings'
         },
         {
-            studentName:'Sudarshana B U',
-            gitHub:"Sudarshana-17",
-            repo:"take-notes-lib",
-            fileName:'Let-Keyword.pdf',
-            language:'js',
-            topic:'Let keyword'
+            studentName: 'Sudarshana B U',
+            gitHub: "Sudarshana-17",
+            repo: "take-notes-lib",
+            fileName: 'Let-Keyword.pdf',
+            language: 'js',
+            topic: 'Let keyword'
         }
     ]
 }
