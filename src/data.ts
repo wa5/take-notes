@@ -1,3 +1,8 @@
+import { Abhinav_K_Work } from "./students/Abhinav_K";
+import { Akash_BWork } from "./students/Akash_B";
+import { prathap_V_Work } from "./students/Prathap_V";
+import { shaliniWork } from "./students/shalini";
+
 export const data = [{
     students: [
         {
@@ -7,14 +12,16 @@ export const data = [{
             fileName: 'Jayanthbr.pdf',
             language: 'js',
             topic: 'for loop'
-        }, {
+        },
+         {
             studentName: "Safrin Sara",
             gitHub: "codehero11",
             repo: "new-project",
             fileName: 'JAVA.pdf',
             language: 'java',
             topic: 'int'
-        }, {
+        },
+         {
             studentName: 'Safrin Sara',
             gitHub: "codehero11",
             repo: "new-project",
@@ -37,7 +44,8 @@ export const data = [{
             fileName: 'arraylist and linkedlist.pdf',
             language: 'java',
             topic: 'ArraylList and LinkedList'
-        }, {
+        },
+         {
             studentName: 'Safrin Sara',
             gitHub: "codehero11",
             repo: "new-project",
@@ -131,7 +139,11 @@ export const data = [{
             fileName: 'Let-Keyword.pdf',
             language: 'js',
             topic: 'Let keyword'
-        }
+        },
+        ...shaliniWork,
+        ...Akash_BWork,
+        ...prathap_V_Work,
+        ...Abhinav_K_Work
     ]
 }
 
