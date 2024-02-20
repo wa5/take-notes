@@ -1,5 +1,6 @@
 import { Abhinav_K_Work } from "./students/Abhinav_K";
 import { Akash_BWork } from "./students/Akash_B";
+import { Manoj_Work } from "./students/Manoj";
 import { prathap_V_Work } from "./students/Prathap_V";
 import { shaliniWork } from "./students/shalini";
 
@@ -143,7 +144,8 @@ export const data = [{
         ...shaliniWork,
         ...Akash_BWork,
         ...prathap_V_Work,
-        ...Abhinav_K_Work
+        ...Abhinav_K_Work,
+        ...Manoj_Work
     ]
 }
 
