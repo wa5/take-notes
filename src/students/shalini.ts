@@ -3,7 +3,7 @@ export const shaliniWork = [
         studentName: 'Shalini S',
         gitHub: "Shalini1499",
         repo: "POC",
-        fileName: 'html doc.docx',
+        fileName: 'html.pdf',
         language: 'Html',
         topic: 'Html Tags'
     }

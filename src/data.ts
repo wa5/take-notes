@@ -2,7 +2,10 @@ import { Abhinav_K_Work } from "./students/Abhinav_K";
 import { Akash_BWork } from "./students/Akash_B";
 import { Manoj_Work } from "./students/Manoj";
 import { prathap_V_Work } from "./students/Prathap_V";
+import { Ramkumar_Work } from "./students/Ramkumar_S";
 import { Safrin_Sara_Work } from "./students/Safrin_Sara";
+import { Saima_Nasim_Work } from "./students/Saima_Nasim";
+import { Wajhuddin_gauri_Work } from "./students/Wajhuddin_gauri";
 import { shaliniWork } from "./students/shalini";
 
 export const data = [{
@@ -147,7 +150,10 @@ export const data = [{
         ...prathap_V_Work,
         ...Abhinav_K_Work,
         ...Manoj_Work,
-        ...Safrin_Sara_Work
+        ...Safrin_Sara_Work,
+        ...Saima_Nasim_Work,
+        ...Ramkumar_Work,
+        ...Wajhuddin_gauri_Work
     ]
 }
 
