@@ -12,7 +12,7 @@ export const Saima_Nasim_Work = [
     {
         studentName:'Saima Nasim',
             gitHub:"saimanasim",
-            repo:"practice ",
+            repo:"practice",
             fileName:'github_hosting.pdf',
             language:'github',
             topic:'How to host github repository',
