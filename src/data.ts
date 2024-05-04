@@ -1,10 +1,14 @@
 import { Abhinav_K_Work } from "./students/Abhinav_K";
 import { Akash_BWork } from "./students/Akash_B";
 import { ChandanWork } from "./students/Chandan";
+import { Karthick_R_Work } from "./students/Karthick_R";
 import { Manoj_Work } from "./students/Manoj";
+import { waseem_Work } from "./students/My_notes";
+import { Nataraj_M_Work } from "./students/Nataraj_m";
 import { Prajwal_Raj_NWork } from "./students/Prajwal Raj N";
 import { prathap_V_Work } from "./students/Prathap_V";
 import { Ramkumar_Work } from "./students/Ramkumar_S";
+import { Rishabav_Work } from "./students/Rishabav_M";
 import { Safrin_Sara_Work } from "./students/Safrin_Sara";
 import { Saima_Nasim_Work } from "./students/Saima_Nasim";
 import { Venkatesh_C_KWork } from "./students/Venkatesh C K";
@@ -159,7 +163,11 @@ export const data = [{
         ...Wajhuddin_gauri_Work,
         ...Venkatesh_C_KWork,
         ...Prajwal_Raj_NWork,
-        ...ChandanWork
+        ...ChandanWork,
+        ...Nataraj_M_Work,
+        ...Rishabav_Work,
+        ...Karthick_R_Work,
+        ...waseem_Work
     ]
 }
 

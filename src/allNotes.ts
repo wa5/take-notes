@@ -19,12 +19,12 @@ export const allNotes = {
 }
 export const students = {
     findOne: (name: string) => {
-        let info = data[0].students.find((val) => { return val.studentName === name })
+        let info = data[0].students.find((val:any) => { return val.studentName === name })
         let exurlBulder = `${urlBulder}/${info?.gitHub}/${info?.repo}/${info?.fileName}`
         return { fileurl: exurlBulder, studentInfo: info }
     },
     findAll: (name: string) => {
-        let info = data[0].students.filter((val) => { return val.studentName === name })
+        let info = data[0].students.filter((val:any) => { return val.studentName === name })
         let added = info.map((val) => {
             let exurlBulder = `${urlBulder}/${val?.gitHub}/${val?.repo}/${val?.fileName}`
             return { ...val, fileUrl: exurlBulder }
